@@ -1,0 +1,11 @@
+{
+    "name": "karnin/aaa",
+    "description": "aaa",
+    "authors": [
+        {
+            "name": "liqi",
+            "email": "176205019@qq.com"
+        }
+    ],
+    "require": {}
+}
